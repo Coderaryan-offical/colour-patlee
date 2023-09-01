@@ -1,7 +1,7 @@
 {
-    "functions": {
-      "*.html": {
-        "runtime": "vercel-php@0.5.2"
-      }
+  "functions": {
+    "*.html": {
+      "runtime": "vercel-php@0.5.2"
     }
   }
+}
