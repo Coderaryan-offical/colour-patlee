@@ -1,6 +1,6 @@
 {
     "functions": {
-      "index.html": {
+      "*.html": {
         "runtime": "vercel-php@0.5.2"
       }
     }
